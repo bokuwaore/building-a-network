@@ -36,6 +36,14 @@ Summary for the first part of the project:  <br/>
 <br />
 <br />
 <h2>Part 2</h2>
+Looking at how to connect network devices to the router:  <br/>
+<img src="https://i.imgur.com/ueQinLf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Finishing the first module of the course (Found devices' IP address, Subnet Mask, and Default Gateway using the ipconfig command:  <br/>
+<img src="https://i.imgur.com/mBfy2uX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
  
 <!--
  ```diff
