@@ -1,6 +1,6 @@
 <h1>Building a Network</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+ ### [Cisco Website](https://skillsforall.com/learningcollections/cisco-packet-tracer?courseLang=en-US&utm_source=netacad.com&utm_medium=referral&utm_campaign=packet-tracer&userlogin=0)
 
 <h2>Description</h2>
 Project consists of a simple script that walks the user through building a network system through Cisco's Packet Tracer. The utility allows you to configure networks and troubleshoot them
@@ -9,44 +9,34 @@ Project consists of a simple script that walks the user through building a netwo
 
 <h2>Utilities Used</h2>
 
-- <b>Virtualbox</b> 
-- <b></b>
+- <b>Cisco Packet Tracer</b> 
+
 
 <h2>Environments Used </h2>
 
-- <b>Ubuntu</b> (21H2)
+- <b>Virtual Enviroment</b> (21H2)
 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Downloading the Packet Tracer to my computer: <br/>
+<img src="https://i.imgur.com/2Uk4GjD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Configuring the physical enviroment:  <br/>
+<img src="https://i.imgur.com/XWwdCVz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Connecting the back up router and the laptop in the enviroment: <br/>
+<img src="https://i.imgur.com/1lJ6s38.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Summary for the first part of the project:  <br/>
+<img src="https://i.imgur.com/PlHWaKf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-
+<h2>Part 2</h2>
+ 
 <!--
  ```diff
 - text in red
