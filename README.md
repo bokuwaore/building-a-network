@@ -14,7 +14,14 @@ Project consists of a simple script that walks the user through building a netwo
 
 <h2>Environments Used </h2>
 
-- <b>Virtual Enviroment</b> (21H2)
+- <b>Virtual Enviroment</b>
+
+<h2>Skills</h2>
+- <b>Cisco Packet Tracer</b>
+<br />
+- <b>IoT Simulation</b>
+<br />
+- <b>Network Simulation</b>
 
 <h2>Program walk-through:</h2>
 
