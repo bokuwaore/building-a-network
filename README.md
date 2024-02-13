@@ -42,16 +42,116 @@ Summary for the first part of the project:  <br/>
 <img src="https://i.imgur.com/PlHWaKf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<h2>Part 2</h2>
+
 Looking at how to connect network devices to the router:  <br/>
 <img src="https://i.imgur.com/ueQinLf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Finishing the first module of the course (Found devices' IP address, Subnet Mask, and Default Gateway using the ipconfig command:  <br/>
-<img src="https://i.imgur.com/mBfy2uX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+:  <br/>
+<img src="https://i.imgur.com/9haQZah.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
- 
+
+:  <br/>
+<img src="https://i.imgur.com/mhWn0Nw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+:  <br/>
+<img src="https://i.imgur.com/StekeOR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+:  <br/>
+<img src="https://i.imgur.com/xktSaYV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+:  <br/>
+<img src="https://i.imgur.com/vJ2f7gf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+:  <br/>
+<img src="https://i.imgur.com/ZN9X8Xb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+
+:  <br/>
+<img src="https://i.imgur.com/El2hszq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+:  <br/>
+<img src="https://i.imgur.com/FMouSMU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+:  <br/>
+<img src="https://i.imgur.com/XyQBNP6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+:  <br/>
+<img src="https://i.imgur.com/xEIW2zo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+:  <br/>
+<img src="https://i.imgur.com/Y9L6zW4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+:  <br/>
+<img src="https://i.imgur.com/YA5iLy3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+:  <br/>
+<img src="https://i.imgur.com/2Wt3sH1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+:  <br/>
+<img src="https://i.imgur.com/ZndexiF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+:  <br/>
+<img src="https://i.imgur.com/Hus7ahl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+:  <br/>
+<img src="https://i.imgur.com/LYGtBMY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+:  <br/>
+<img src="https://i.imgur.com/MBb3sAS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+:  <br/>
+<img src="https://i.imgur.com/EHyQdjh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+:  <br/>
+<img src="https://i.imgur.com/FUetP2e.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+
+:  <br/>
+<img src="https://i.imgur.com/FUetP2e.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+
+
 <!--
  ```diff
 - text in red
