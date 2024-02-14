@@ -48,22 +48,22 @@ Looking at how to connect network devices to the router:  <br/>
 <br />
 <br />
 
-:  <br/>
+Using the Network Packet tracer :  <br/>
 <img src="https://i.imgur.com/9haQZah.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
-:  <br/>
+Configuring and connecting a cluster of IoT to the ISP:  <br/>
 <img src="https://i.imgur.com/mhWn0Nw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
-:  <br/>
+Troubleshooting which PC had connectibity issues and checking if it works after enabling the feature to ping a website:  <br/>
 <img src="https://i.imgur.com/StekeOR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
-:  <br/>
+Connecting IoT into a wall mount using copper straight-through wires and the proper ports :  <br/>
 <img src="https://i.imgur.com/xktSaYV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
@@ -89,22 +89,22 @@ Looking at how to connect network devices to the router:  <br/>
 <br />
 <br />
 
-:  <br/>
+Connecting IoT to the wifi and setting up a WPA2 passcode to encrypt the connection :  <br/>
 <img src="https://i.imgur.com/XyQBNP6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
-:  <br/>
+Connecting IoT in a home setting to the Home Gateway so you can control the houses features through a mobile device:  <br/>
 <img src="https://i.imgur.com/xEIW2zo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
-:  <br/>
+Connecting the wall mounts, patch panel, and organizing the office:  <br/>
 <img src="https://i.imgur.com/Y9L6zW4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
-:  <br/>
+Network Controller:  <br/>
 <img src="https://i.imgur.com/YA5iLy3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
